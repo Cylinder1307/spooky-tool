@@ -1,6 +1,6 @@
 # Spooky Multi-Tool
 
-## Download this repository as a zip, extract it, then run spooky with "./spooky" 
+## Download this repository as a zip (or clone it if you know what you're doing), extract it, then run spooky with "./spooky" 
 ### Use ```chmod +x *``` to mark the files as executable.
 
 ## Version 1.2.6
